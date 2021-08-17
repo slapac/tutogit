@@ -1,0 +1,2 @@
+cd C:\Users\Pascal\Documents\cours\BTS SIO\AP\git\nodejs
+node server
